@@ -1,0 +1,1 @@
+com.gmail.blanutsa.dmitriy.task3.TestSerialize#stringValue:str#integerValue:5#longValue:7#shortValue:3#byteValue:1#floatValue:7.8#doubleValue:9.1#charValue:d#booleanValue:true#
